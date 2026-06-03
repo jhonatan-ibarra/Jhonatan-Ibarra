@@ -382,6 +382,7 @@ Sistema web orientado a la administración clínica odontológica. Integra gesti
 
 ## 🎯 Nivel de enfoque técnico
 
+```text
 Backend Laravel              ████████████████████
 Frontend Angular             ███████████████████
 Vue.js                       ████████████████
@@ -394,6 +395,8 @@ Computer Vision              ██████████████
 IoT / ESP32 / Arduino        █████████████
 Java / Kotlin / Dart         ████████████
 C / C++                      ████████████
+
+
 
 🧠 Actualmente mejorando en
 <table> <tr> <td width="50%"> <img src="https://img.shields.io/badge/Desarrollo%20de%20software-F97316?style=for-the-badge" />
