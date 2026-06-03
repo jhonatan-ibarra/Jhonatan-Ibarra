@@ -422,8 +422,9 @@ Detección en radiografías dentales.
 Modelos aplicados al área de salud.
 Integración de modelos de IA con sistemas web.
 </td> </tr> </table>
-🏆 Objetivo profesional
+## 🏆 Objetivo profesional
 <p align="center"> Construir soluciones tecnológicas útiles, escalables y bien estructuradas, combinando desarrollo web moderno, inteligencia artificial, visión por computadora e integración tecnológica para resolver problemas reales. </p>
-📫 Contacto
+
+## 📫 Contacto
 <p align="center"> <a href="mailto:jhonatanibacon@gmail.com"> <img src="https://img.shields.io/badge/Email-jhonatanibacon%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/jhonatan-ibarra"> <img src="https://img.shields.io/badge/GitHub-jhonatan--ibarra-181717?style=for-the-badge&logo=github" /> </a> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jhonatan-ibarra&label=Visitas%20al%20perfil&color=38bdf8&style=for-the-badge" /> </p> <p align="center"> <strong>“La tecnología no solo se aprende, se construye paso a paso.”</strong> </p> <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FACC15,20:F97316,40:DB2777,60:7C3AED,80:2563EB,100:0F172A&height=130&section=footer" /> </p> 
