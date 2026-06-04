@@ -359,18 +359,6 @@ Sistema web orientado a la administración clínica odontológica. Integra gesti
 
 ---
 
-```text## 📊 Estadísticas generales
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jhonatan-ibarra&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=jhonatan-ibarra&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhonatan-ibarra&theme=radical" />
-</p>
-```
----
 
 
 ## 📈 Actividad de desarrollo
