@@ -359,7 +359,7 @@ Sistema web orientado a la administración clínica odontológica. Integra gesti
 
 ---
 
-## 📊 Estadísticas generales
+```text## 📊 Estadísticas generales
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jhonatan-ibarra&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
@@ -369,15 +369,16 @@ Sistema web orientado a la administración clínica odontológica. Integra gesti
 <p align="center">
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhonatan-ibarra&theme=radical" />
 </p>
-
+```
 ---
 
-```text## 📈 Actividad de desarrollo
+
+## 📈 Actividad de desarrollo
 
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jhonatan-ibarra&theme=tokyo-night&hide_border=true&area=true" />
 </p>
-```
+
 ---
 
 ## 🎯 Nivel de enfoque técnico
