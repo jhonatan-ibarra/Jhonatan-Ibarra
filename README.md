@@ -411,7 +411,8 @@ Detección en radiografías dentales.
 Modelos aplicados al área de salud.
 Integración de modelos de IA con sistemas web.
 </td> </tr> </table>
-## 🏆 Objetivo profesional
+
+🏆 Objetivo profesional
 <p align="center"> Construir soluciones tecnológicas útiles, escalables y bien estructuradas, combinando desarrollo web moderno, inteligencia artificial, visión por computadora e integración tecnológica para resolver problemas reales. </p>
 
 ## 📫 Contacto
