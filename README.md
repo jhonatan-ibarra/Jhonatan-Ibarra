@@ -2,7 +2,7 @@
 <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,20:1D4ED8,40:7C3AED,60:DB2777,80:F97316,100:FACC15&height=290&section=header&text=Jhonatan%20Ibarra&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Artificial%20Intelligence%20%7C%20Computer%20Vision%20%7C%20Software%20Engineering&descAlignY=58&descSize=18" /> 
 </p> 
  
-<p align="center">
+<p align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2400&pause=900&color=38BDF8&center=true&vCenter=true&width=1100&lines=Ingeniero+de+Sistemas+con+menci%C3%B3n+en+Inteligencia+Artificial;Desarrollador+Full+Stack+con+Laravel%2C+Angular+y+Vue.js;Python%2C+Machine+Learning+y+Computer+Vision;Experiencia+en+sistemas+web%2C+IoT%2C+IA+y+proyectos+acad%C3%A9micos;Construyendo+soluciones+tecnol%C3%B3gicas+para+problemas+reales" />
 </p> 
 
