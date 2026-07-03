@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Frontend-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
 
---- 
+---  
 
 <h1 align="center">👋 Hola, soy Jhonatan Ibarra</h1>
 
