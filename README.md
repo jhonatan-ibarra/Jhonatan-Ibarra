@@ -16,7 +16,7 @@
 
 ---  
  
-<h1 align="center">👋 Hola, soy Jhonatan Ibarra</h1>
+<h1 align="center"> Holaa, soy Jhonatan Ibarra</h1>
 
 <p align="center">
   <strong>Ingeniero de Sistemas</strong> con mención en <strong>Inteligencia Artificial</strong>, orientado al desarrollo de software, sistemas web modernos, arquitectura de software, APIs REST, seguridad, bases de datos, inteligencia artificial, visión por computadora y soluciones tecnológicas aplicadas a problemas reales.
