@@ -28,7 +28,7 @@
 
 ---
 
-## 🌈 Presentación profesional
+##  Presentación profesional
 
 <table>
 <tr>
