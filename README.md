@@ -1,4 +1,4 @@
-<!--==================== HEADER ===================== -->          
+<!--==================== HEADER ===================== -->       
 <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,20:1D4ED8,40:7C3AED,60:DB2777,80:F97316,100:FACC15&height=290&section=header&text=Jhonatan%20Ibarra&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Artificial%20Intelligence%20%7C%20Computer%20Vision%20%7C%20Software%20Engineering&descAlignY=58&descSize=18" /> 
 </p>  
   
