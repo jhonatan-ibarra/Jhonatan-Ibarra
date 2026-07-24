@@ -3,7 +3,7 @@
 </p>  
   
 <p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2400&pause=900&color=38BDF8&center=true&vCenter=true&width=1100&lines=Ingeniero+de+Sistemas+con+menci%C3%B3n+en+Inteligencia+Artificial;Desarrollador+Full+Stack+con+Laravel%2C+Angular+y+Vue.js;Python%2C+Machine+Learning+y+Computer+Vision;Experiencia+en+sistemas+web%2C+IoT%2C+IA+y+proyectos+acad%C3%A9micos;Construyendo+soluciones+tecnol%C3%B3gicas+para+problemas+reales" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2400&pause=900&color=38BDF8&center=true&vCenter=true&width=1100&lines=Ingeniero+de+Sistemas+con+menci%C3%B3n+en+Inteligencia+Artificial;Desarrollador+Full+Stack+con+Laravel%2C+Angular+y+Vue.js;Python%2C+Machine+Learning+y+Computer+Vision;Experiencia+en+sistemas+web%2C+IoT%2C+IA+y+proyectos+acad%C3%A9micos;Construyendo+soluciones+tecnol%C3%B3gicas+para+problemas+reales" />
 </p> 
 
 <p align="center">
