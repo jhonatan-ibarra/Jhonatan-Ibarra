@@ -363,7 +363,7 @@ Sistema web orientado a la administración clínica odontológica. Integra gesti
 ## 📈 Actividad de desarrollo
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jhonatan-ibarra&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jhonatan-ibarra&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
