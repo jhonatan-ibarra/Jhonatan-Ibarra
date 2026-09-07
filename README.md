@@ -362,9 +362,8 @@ Sistema web orientado a la administración clínica odontológica. Integra gesti
 ## 📈 Actividad de desarrollo
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jhonatan-ibarra&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de actividad de GitHub" />
+  <img src="https://streak-stats.demolab.com?user=jhonatan-ibarra&theme=tokyo-night&hide_border=true" alt="Racha de GitHub" />
 </p>
-
 ---
 
 ## 🎯 Nivel de enfoque técnico
