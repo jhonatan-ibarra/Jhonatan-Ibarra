@@ -25,7 +25,7 @@
 <p align="center">
   He trabajado en proyectos de <strong>salud</strong>, <strong>educación</strong>, <strong>sistemas administrativos</strong>, <strong>IoT con ESP32</strong>, <strong>inteligencia artificial</strong>, <strong>visión por computadora</strong> y <strong>prototipos académicos</strong>.
 </p>
-
+  
 ---
 
 ##  Presentación profesional
