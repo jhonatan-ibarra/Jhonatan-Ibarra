@@ -38,14 +38,14 @@
 
 <br><br>
 
-- 🎓 Egresado de Ingeniería de Sistemas.
-- 🧠 Mención en Inteligencia Artificial.
-- 💻 Desarrollador Full Stack.
-- 🔐 Enfoque en seguridad, JWT y APIs REST.
-- 🗄️ Experiencia con bases de datos relacionales.
-- 🤖 Interés fuerte en Machine Learning y Computer Vision.
-- 🔌 Experiencia con proyectos IoT.
-- 📚 Aprendizaje continuo en tecnologías modernas.
+- Egresado de Ingeniería de Sistemas.
+- Mención en Inteligencia Artificial.
+- Desarrollador Full Stack.
+- Enfoque en seguridad, JWT y APIs REST.
+- Experiencia con bases de datos relacionales.
+- Interés fuerte en Machine Learning y Computer Vision.
+- Experiencia con proyectos IoT.
+- Aprendizaje continuo en tecnologías modernas.
 
 </td>
 <td width="50%">
@@ -69,7 +69,7 @@
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,angular,vue,ts,js,html,css,python,tensorflow,pytorch,opencv,mysql,postgres,firebase,docker,git,github,vscode,linux,postman,java,kotlin,cpp,c,arduino,dart,flutter" />
@@ -134,7 +134,7 @@ VS Code
 
 ---
 
-## 🎨 Lenguajes y stacks trabajados
+## Lenguajes y stacks trabajados
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -155,7 +155,7 @@ VS Code
 
 ---
 
-## 🚀 Proyectos desarrollados
+## Proyectos desarrollados
 
 <table>
 <tr>
@@ -163,7 +163,7 @@ VS Code
 
 <img src="https://img.shields.io/badge/Q--DENT-38BDF8?style=for-the-badge" />
 
-### 🦷 Sistema odontológico con IA
+### Sistema odontológico con IA
 
 Sistema web de gestión de historiales clínicos odontológicos con enfoque en IA para el pronóstico precoz de enfermedades dentales mediante imágenes radiográficas.
 
@@ -180,7 +180,7 @@ Sistema web de gestión de historiales clínicos odontológicos con enfoque en I
 
 <img src="https://img.shields.io/badge/Becas%20universitarias-F59E0B?style=for-the-badge" />
 
-### 🎓 Sistema de becas universitarias
+### Sistema de becas universitarias
 
 Proyecto orientado a la gestión y administración de becas universitarias, enfocado en procesos, organización de información y solución tecnológica aplicada al ámbito educativo.
 
@@ -198,7 +198,7 @@ Proyecto orientado a la gestión y administración de becas universitarias, enfo
 
 <img src="https://img.shields.io/badge/IoT%20%7C%20ESP32-10B981?style=for-the-badge" />
 
-### 🔌 Aula inteligente / laboratorio inteligente
+### Aula inteligente / laboratorio inteligente
 
 Proyecto IoT con ESP32 para monitoreo y automatización de un laboratorio, incluyendo sensores, control de luces, ventilación y acceso mediante RFID.
 
@@ -215,7 +215,7 @@ Proyecto IoT con ESP32 para monitoreo y automatización de un laboratorio, inclu
 
 <img src="https://img.shields.io/badge/IA%20y%20Visi%C3%B3n%20por%20computadora-8B5CF6?style=for-the-badge" />
 
-### 🤖 Proyectos de IA y visión por computadora
+### Proyectos de IA y visión por computadora
 
 Trabajo en modelos enfocados en reconocimiento, análisis de imágenes y aplicación de técnicas de inteligencia artificial para resolver problemas reales.
 
@@ -235,7 +235,7 @@ Trabajo en modelos enfocados en reconocimiento, análisis de imágenes y aplicac
 
 <img src="https://img.shields.io/badge/Sistemas%20web-EC4899?style=for-the-badge" />
 
-### 🌐 Sistemas web y prototipos
+### Sistemas web y prototipos
 
 Desarrollo de sistemas administrativos, módulos web, formularios dinámicos, autenticación, roles, permisos y consumo de APIs REST.
 
@@ -251,7 +251,7 @@ Desarrollo de sistemas administrativos, módulos web, formularios dinámicos, au
 
 <img src="https://img.shields.io/badge/Acad%C3%A9mico%20y%20m%C3%B3vil-2563EB?style=for-the-badge" />
 
-### 📱 Aplicaciones y proyectos académicos
+### Aplicaciones y proyectos académicos
 
 Experiencia con proyectos académicos y prototipos usando Java, Kotlin, Dart, C y C++, aplicando lógica de programación, estructuras y desarrollo de soluciones.
 
@@ -269,7 +269,7 @@ Experiencia con proyectos académicos y prototipos usando Java, Kotlin, Dart, C 
 
 ---
 
-## 🌟 Proyecto destacado: Q-DENT
+## Proyecto destacado: Q-DENT
 
 <p align="center">
   <img src="https://img.shields.io/badge/Proyecto-Q--DENT-38BDF8?style=for-the-badge" />
@@ -321,7 +321,7 @@ Sistema web orientado a la administración clínica odontológica. Integra gesti
 
 ---
 
-## 💼 Experiencia y formación práctica
+## Experiencia y formación práctica
 
 <table>
 <tr>
@@ -359,14 +359,14 @@ Sistema web orientado a la administración clínica odontológica. Integra gesti
 ---
 
 
-## 📈 Actividad de desarrollo
+## Actividad de desarrollo
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jhonatan-ibarra&theme=tokyo-night&hide_border=true" alt="Racha de GitHub" />
 </p>
 ---
 
-## 🎯 Nivel de enfoque técnico
+## Nivel de enfoque técnico
 
 ```text
 Backend Laravel              ████████████████████
@@ -384,7 +384,7 @@ C / C++                      ████████████
 ```
 
 
- 🧠 Actualmente mejorando en
+ Actualmente mejorando en
 <table> <tr> <td width="50%"> <img src="https://img.shields.io/badge/Desarrollo%20de%20software-F97316?style=for-the-badge" />
 
 <br><br>
@@ -409,10 +409,10 @@ Modelos aplicados al área de salud.
 Integración de modelos de IA con sistemas web.
 </td> </tr> </table>
 
-🏆 Objetivo profesional
+ Objetivo profesional
 <p align="center"> Construir soluciones tecnológicas útiles, escalables y bien estructuradas, combinando desarrollo web moderno, inteligencia artificial, visión por computadora e integración tecnológica para resolver problemas reales. </p>
 
-## 📫 Contacto
+## Contacto
 <p align="center"> <a href="mailto:jhonatanibacon@gmail.com"> <img src="https://img.shields.io/badge/Email-jhonatanibacon%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/jhonatan-ibarra"> <img src="https://img.shields.io/badge/GitHub-jhonatan--ibarra-181717?style=for-the-badge&logo=github" /> </a> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jhonatan-ibarra&label=Visitas%20al%20perfil&color=38bdf8&style=for-the-badge" /> </p> <p align="center"> <strong>“La tecnología no solo se aprende, se construye paso a paso.”</strong> </p> <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FACC15,20:F97316,40:DB2777,60:7C3AED,80:2563EB,100:0F172A&height=130&section=footer" /> </p> 
