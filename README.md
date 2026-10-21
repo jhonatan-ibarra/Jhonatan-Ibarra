@@ -20,7 +20,7 @@
 
 <p align="center">
   <strong>Ingeniero de Sistemas</strong> con mención en <strong>Inteligencia Artificial</strong>, orientado al desarrollo de software, sistemas web modernos, arquitectura de software, APIs REST, seguridad, bases de datos, inteligencia artificial, visión por computadora y soluciones tecnológicas aplicadas a problemas reales.
-</p>
+</p> 
 
 <p align="center">
   He trabajado en proyectos de <strong>salud</strong>, <strong>educación</strong>, <strong>sistemas administrativos</strong>, <strong>IoT con ESP32</strong>, <strong>inteligencia artificial</strong>, <strong>visión por computadora</strong> y <strong>prototipos académicos</strong>.
