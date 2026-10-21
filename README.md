@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Backend-Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Frontend-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
- 
+  
 ---         
   
 <h1 align="center"> Holaa, soy Jhonattan Ibarra</h1>
